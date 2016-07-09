@@ -1,0 +1,8 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+ <filter id="gaussian_blur">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,89 @@
+2013/10/12 12:32:51 [error] [exception.CException] exception 'CException' with message 'Alias "gii.GiiModule" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\wamp\www\yii\framework\YiiBase.php:322
+Stack trace:
+#0 D:\wamp\www\yii\framework\YiiBase.php(196): YiiBase::import('gii.GiiModule', true)
+#1 D:\wamp\www\yii\framework\base\CModule.php(282): YiiBase::createComponent('gii.GiiModule', 'gii', NULL, Array)
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(337): CModule->getModule('gii')
+#3 D:\wamp\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController('gii')
+#4 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#5 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/gympic/index.php?r=gii
+---
+2013/10/12 13:24:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userlogin".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userlogin')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userlogin')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userlogin')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userlogin
+HTTP_REFERER=http://localhost/gympic/index.php
+---
+2013/10/12 13:24:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userlogin".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userlogin')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userlogin')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userlogin')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userlogin
+HTTP_REFERER=http://localhost/gympic/index.php?r=site/userlogin
+---
+2013/10/12 13:25:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userlogin".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userlogin')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userlogin')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userlogin')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userlogin
+HTTP_REFERER=http://localhost/gympic/index.php?r=site/userlogin
+---
+2013/10/12 13:26:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userlogin".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userlogin')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userlogin')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userlogin')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userlogin
+HTTP_REFERER=http://localhost/gympic/index.php?r=site/userlogin
+---
+2013/10/12 13:26:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userregister".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userregister')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userregister')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userregist...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userregister
+HTTP_REFERER=http://localhost/gympic/index.php?r=site/userlogin
+---
+2013/10/12 13:41:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userlogin".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userlogin')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userlogin')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userlogin')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userlogin
+HTTP_REFERER=http://localhost/gympic/index.php
+---
+2013/10/12 14:19:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "userregister".' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('userregister')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('userregister')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/userregist...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\gympic\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gympic/index.php?r=site/userregister
+HTTP_REFERER=http://localhost/gympic/index.php
+---

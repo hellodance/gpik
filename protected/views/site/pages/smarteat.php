@@ -1,0 +1,36 @@
+<?php $this->setPageTitle("Gympik- An end-to-end free online platform to help improving lifestyle choices.");?>
+<div class="container inner">
+  <div class="row-fluid detail">
+    	<h3>Is there Really Something Called a Balanced Diet? - Eat Smart, Eat Right</h3>
+    <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/Eat_smart01.jpg" alt="Eat_smart01" class="imgfl" />
+<p>Everywhere you look, it’s like people are chomping, munching, guzzling and burping their way into what’s left of the year and fast is the way to go. People are picking up burgers and grabbing colas on the move. These trends are a little disconcerting to say the least. Check the menus in restaurants and you will find hundreds of delectable vegetarian and non-vegetarian dishes, but the health-conscious eater will definitely be left scanning the pages for that elusive salad section. It’s almost like salad is not even categorized as food any longer.  </p>
+      <p>There are many who will mocking state that salad is meant to be the staple of farm animals (it seems like Popeye’s undying efforts to turn spinach into a global health food have been in vain). Psychologically, if it’s not fried, buttered, laden with cheese and spices and served in super-size- it’s not real food. It’s as if everyone’s going into binge-overdrive and everyone’s eating like it’s the end of the world.
+    </p>
+    <h3>The Counter-Attack </h3>
+    <p>Every attack will have a counter-attack. So also it is with the health brigade. In their tryst with health and in vehement retaliation, over the decades, the health mongers have launched diet after diet. From a liquid-only and a cabbage/ broccoli-only to a spinach and tomatoes-only diet, we’ve seen them all. Some tagged with fancy names have had a wider reach than their nameless counterparts. </p>
+    <p>Diets per se will work only for as long as you continue with them. The minute you ease-off, the fat will pile-on. And though fat, fit and healthy are all debatably different concepts, there is some co-relation between them. Let’s take a look at what a simple and balanced DIET should ideally contain and how it will help you maintain good health.  </p>
+    <h3>Custom-Made is Made Just for You</h3>
+    <p>Many people have a very hazy understanding about what the true meaning of healthy eating is and it’s not surprising. There are just too many health-gurus saying too many things and propagating different diet ideas. What’s amusing is that most of these contradict each other to the hilt and leave the to-be dieter confused and discouraged. That’s exactly why it’s important not to follow any fad diet plans. As long as you understand and follow the basics, making a healthy food plan will not be a difficult task. </p>
+    <h3>The Calorie Dilemma</h3>
+    <p>The calorie or energy requirement varies from one person to the next and there is no hard and fast rule. A person’s calorie requirement will largely be dependent on gender and age as well as the physical activity-levels of the person. Thus, it goes without saying that a person who follows a highly active lifestyle must have a good calorie intake and vice-versa. </p><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/Eat_smart02.jpg" alt="Eat_smart02" class="imgfr" />
+    <p>Metro lifestyles in the country’s cities are becoming increasingly sedentary and the Indian Council of Medical Research has now revised the Recommended Dietary Allowance (RDA) for Indians. The recommended calorie/ energy intake for an average sedentary Indian man is 2320 Kcal, while an average, sedentary Indian woman will need 1900 Kcal.</p>
+    <p>Children have special dietary needs as they are in a growing phase. Seniors or those suffering from certain medical conditions will have to restrict themselves to certain foods. It is recommended that you consult your nutritionist or doctor before embarking on any food plan. Those who are trying to shed kilos will have to be more concerned about calories.  Here is a basic diet plan that will not leave you starved or under-nourished:</p>
+      
+      
+      <h3>Vegetables and Fruits </h3>
+    <p>Try to include a minimum of 5 average portions of fresh vegetables and fruits into your diet every day. Fruits are a very rich source of Vitamins and are low in calories and fat. Vegetables especially provide Vitamin A and C, are naturally low-fibre and have large amounts of fibre. Lentils and pulses are a part of this group. </p>
+<h3>Cereals, Bread and Potatoes</h3>
+    <p>- 5 is the special portion number here too. This group includes breakfast cereals like oats, multi-grain/ whole grain breads, potatoes, brown rice and whole-wheat pasta. These foods provide you with energy. They also contain minerals, B Vitamins and fibre. The idea is that you include any one food from this particular group in every meal.  </p>
+    <p>Starchy foods tend to be fattening only when you add cream, butter or ghee to them, so avoid adding those to your meals. It is also a good idea to consume alternatives like ragi (red millet)/jowar/bajra rotis in place of wheat. They contain more fibre, are nutritious and comparatively low-calorie. </p>
+      
+    <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/Eat_smart03.jpg" alt="Eat_smart03" class="imgfl" /><h3>Milk & Dairy Foods</h3>
+    <P>Consume milk, yoghurt, cheese and other dairy products in moderation and settle for low-fat versions. They are rich in calcium, provide Vitamin B12 and protein. Avoid butter and cream and but do not eliminate them completely from your diet </P>
+    <h3>Meats, Sea-Food & Alternatives- </h3>
+    <p>If you are a non-vegetarian, add a minimum of 2-3 servings of either of these to your daily food plan. This group includes poultry, eggs, meat and fish. Meat is a rich source of protein but remember to trim-away visible fat from meats and poultry. Fish also has protein, Vitamins A, C and D and Omega-3 Fatty Acids.  Eggs are packed with protein but consume them in moderation. Those who are trying to lose weight should keep the yolk at bay. Vegetarians can opt for kidney beans, nuts, tofu and sprouts.</p>
+   <h3>Fats and sugars</h3> <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/Eat_smart04.png" alt="Eat_smart04" class="img11" />
+    <P>These are typically to be consumed in very small quantities. Those  who want to shed weight should largely shun them. Cooking oils, butter, margarine, crisps, and cream are a part of this group. Pastries, sweetmeats, chocolates, ice-creams and biscuits are products you must be very wary of consuming. A little bit of fat should be included in your daily diet but choose smartly. Switch to unsaturated fats like olive, corn and sunflower. </P>
+    <p>The key to maintaining good health is to consciously include variety in your daily diet and conjure tasty and healthy food recipes. If you settle for insipid and bland food, chances are that the balanced diet plan you so enthusiastically embarked upon will bite the dust sooner than later.</p>
+
+  </div>
+  
+</div>

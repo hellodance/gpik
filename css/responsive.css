@@ -1,0 +1,72 @@
+/* iPad 1024px to fix Retina Header Image */
+@media only screen and (max-width: 1024px) {
+
+	
+	#slider .elements { margin-right:-316px; top:0px; }
+	.text-slider { margin-left:-449px; top:31px }
+	#slider .flex-direction-nav { margin-right:90px; }
+	.shell { width:900px; }
+	#testimonials .shell { width:722px; }
+	#testimonials .shell.no-thumb { width: 900px; padding:0; }
+	#testimonials .flex-direction-nav { margin-left:391px; }
+	.top-image h1 { width:900px; }
+	#slider { height:450px; }
+	#slider li { background-size:auto 450px; }
+	#slider .flex-direction-nav { top:374px; }
+	
+	
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+	
+	
+	#slider .text-slider { left:53%; top:134px; width:318px; height:251px; margin:0; }
+	#slider .elements { margin:0; left:23%; right:auto; background-size: 75% auto; }
+	#slider .elements .white-box { left:20%; right:auto; top:111px; background-size:86%;}
+	#slider .elements .bottom-corner { left:390px; }
+	#slider .elements .top-corner { left:674px; }
+	#slider .flex-direction-nav { left:54%; top:82%; right:auto; }
+	#slider .text-slider ul li{ height:215px; width:270px; left:24px;}
+	
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (max-width: 767px) {
+
+	
+	#content-area h1{margin-top:0;}
+	#slider { background: #f2f2f2 url(images/loading.gif) center 330px no-repeat; border-bottom:1px solid #ccc; }
+	#slider .image-slider li { -webkit-background-size: auto 230px;	-moz-background-size: auto 230px; -o-background-size: auto 230px; background-size: auto 230px; }
+	#slider .elements { margin:0; background:none; position:relative; left:0; top:0; right:auto; }
+	#slider .elements .white-box,
+	#slider .elements .bottom-corner,
+	#slider .elements .top-corner { display:none !important; }
+	#slider .flex-direction-nav { left: auto; right: 7%; margin: 0; top: 270px; }
+	#slider .text-slider { background:#fff; width:100%; left:0; right:auto; top:230px; display:block; }
+	#slider .text-slider ul { width:100%; margin:0; padding:0; }
+	#slider .text-slider li { width:86%; padding:0 7%; left:0; right:auto; height:auto; }
+	
+	#filters span { display:block; width:93%; float:none; margin:0 0 5px; }
+	#slider li{left:0px;}
+	.sliderFram{display:none;}
+	
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+
+	
+	#slider { background: #f2f2f2 url(images/loading.gif) center 300px no-repeat; }
+	#slider .image-slider  li { -webkit-background-size: auto 180px; -moz-background-size: auto 180px; -o-background-size: auto 180px; background-size: auto 180px; }
+	#slider .flex-direction-nav { top: 135px; }
+	#slider .text-slider { top:180px; }
+	
+	#features .button, .button { display:block; margin:0 0 10px; text-align:center; }
+	#features .button + .button, .button + .button { margin-left:0; }
+	
+	.top-image { height:100px; }
+	
+	
+}
